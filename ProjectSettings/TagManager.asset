@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bubble
+  - Star
+  - StarPiece
+  - Wood
+  - Limits
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bubbles
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2094013445
+    locked: 0
+  - name: Stars
+    uniqueID: 388384473
+    locked: 0
+  - name: Walls
+    uniqueID: 1662656041
+    locked: 0
+  - name: Bubbles
+    uniqueID: 447864833
+    locked: 0
+  - name: GUI
+    uniqueID: 3860325327
+    locked: 0
